@@ -6,4 +6,4 @@
 
 **The Automated Testing Course by CompIT Canada provides an in-depth understanding of software testing concepts, focusing on Java-based automated testing. This course covers core programming concepts, testing frameworks, and version control while emphasizing hands-on practice with real-world applications.**
 
-Java/ Cucumber / Selenium 
+
