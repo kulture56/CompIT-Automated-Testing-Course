@@ -94,7 +94,7 @@ This repository is for educational purposes only. All rights reserved to **CompI
 
 ### 📌 Stay Connected
 - **GitHub:** [@kulture56](https://github.com/kulture56)
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [[(https://www.linkedin.com/in/collins-murichu-wanjira/)]]
 
 🚀 Happy Testing!
 
