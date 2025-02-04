@@ -1,6 +1,6 @@
 # Automated Testing Course - CompIT Canada
 
-##Overview
+**Overview**
 
 ![image](https://github.com/user-attachments/assets/c2e429aa-e1cd-4e9d-aec6-7f8ca5cc80d7)
 
