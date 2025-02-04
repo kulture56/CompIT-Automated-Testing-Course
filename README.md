@@ -12,34 +12,25 @@
 
 * Understanding Java Virtual Machine (JVM) and Java Runtime Environment (JRE)
 * Java Development Kit (JDK) installation and setup
+* Primitive and Non-Primitive Variables
+* Control Statements (If-Else, Loops, Switch Case)
+* Object-Oriented Programming (OOP) concepts:
+* Encapsulation, Inheritance, Polymorphism, and Abstraction
+* Interfaces and Abstract Classes
 
-Primitive and Non-Primitive Variables
+**2. Version Control with Git & GitHub**
 
-Control Statements (If-Else, Loops, Switch Case)
+* Setting up repositories and managing commits
+* Branching, merging, and collaboration
+* Working with GitHub workflows
 
-Object-Oriented Programming (OOP) concepts:
+**3. Software Testing Fundamentals**
 
-Encapsulation, Inheritance, Polymorphism, and Abstraction
+* Types of Testing: Manual vs Automated
+* Test Case Design and Execution
+* Writing test scenarios and acceptance criteria
 
-Interfaces and Abstract Classes
-
-2. Version Control with Git & GitHub
-
-Setting up repositories and managing commits
-
-Branching, merging, and collaboration
-
-Working with GitHub workflows
-
-3. Software Testing Fundamentals
-
-Types of Testing: Manual vs Automated
-
-Test Case Design and Execution
-
-Writing test scenarios and acceptance criteria
-
-4. Java for Testing
+**4. Java for Testing**
 
 Handling user inputs with Scanner class
 
