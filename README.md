@@ -1,7 +1,5 @@
 # Automated Testing Course - CompIT Canada
 
-**Overview**
-
 ![image](https://github.com/user-attachments/assets/c2e429aa-e1cd-4e9d-aec6-7f8ca5cc80d7)
 
 **The Automated Testing Course by CompIT Canada provides an in-depth understanding of software testing concepts, focusing on Java-based automated testing. This course covers core programming concepts, testing frameworks, and version control while emphasizing hands-on practice with real-world applications.**
@@ -32,56 +30,40 @@
 
 **4. Java for Testing**
 
-Handling user inputs with Scanner class
+* Handling user inputs with Scanner class
+* Exception Handling & Debugging
+* Working with Arrays and Strings in Java
+* Access Modifiers, Static, and Final Keywords
+* Enum and Lambda Expressions
 
-Exception Handling & Debugging
+**5. Automated Testing Frameworks**
 
-Working with Arrays and Strings in Java
+* Introduction to JUnit and TestNG
+* Writing and executing unit tests
+* Assertions and test validation techniques
+* Parameterized and Data-Driven Testing
 
-Access Modifiers, Static, and Final Keywords
+**6. Selenium for Web Testing**
 
-Enum and Lambda Expressions
+* Basics of Selenium WebDriver
+* Locators (XPath, CSS Selectors, ID, Name)
+* Handling dynamic elements and waits
+* Automating browser actions and form submissions
 
-5. Automated Testing Frameworks
+**7. Advanced Topics**
 
-Introduction to JUnit and TestNG
+* Test Automation Best Practices
+* Continuous Integration & Continuous Deployment (CI/CD)
+* Performance and Load Testing Concepts
 
-Writing and executing unit tests
+**Prerequisites**
 
-Assertions and test validation techniques
+* Basic understanding of programming concepts (Java recommended)
+* Familiarity with version control systems like Git
+* Willingness to engage in hands-on coding exercises
 
-Parameterized and Data-Driven Testing
+**Software Requirements**
 
-6. Selenium for Web Testing
-
-Basics of Selenium WebDriver
-
-Locators (XPath, CSS Selectors, ID, Name)
-
-Handling dynamic elements and waits
-
-Automating browser actions and form submissions
-
-7. Advanced Topics
-
-Test Automation Best Practices
-
-Continuous Integration & Continuous Deployment (CI/CD)
-
-Performance and Load Testing Concepts
-
-Prerequisites
-
-Basic understanding of programming concepts (Java recommended)
-
-Familiarity with version control systems like Git
-
-Willingness to engage in hands-on coding exercises
-
-Software Requirements
-
-Java Development Kit (JDK 21 or higher) Download
-
-Eclipse IDE Download
-
-Git & GitHub GitHub Setup
+* Java Development Kit (JDK 21 or higher) Download
+* Eclipse IDE Download
+* Git & GitHub GitHub Setup
